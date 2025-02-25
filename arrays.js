@@ -18,8 +18,8 @@ const banana = fruits.find((fruit) => fruit === "🍌");
 console.log(banana);
 
 /* 5. includes() Challenge */
-const isIncludeApple = fruits.includes("🍎");
-console.log(isIncludeApple);
+const isAppleIncluded = fruits.includes("🍎");
+console.log(isAppleIncluded);
 
 /* 6. slice() Challenge */
 numbers = [1, 2, 3, 4, 5];
